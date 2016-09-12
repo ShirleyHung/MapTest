@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=62:B4:61:D2:09:B7:A7:54:1D:03:76:0A:E3:2E:71:BC:80:A9:ED:75%3Bcom.macroviz.mymap
+
+    You can also add your credentials to an existing key, using this line:
+    62:B4:61:D2:09:B7:A7:54:1D:03:76:0A:E3:2E:71:BC:80:A9:ED:75;com.macroviz.mymap
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyDS2Ots9WfDuxlTJ1prqdX16anqSKqLqCQ
+    </string>
+</resources>
